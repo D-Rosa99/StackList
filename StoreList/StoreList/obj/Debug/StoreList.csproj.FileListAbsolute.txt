@@ -1,0 +1,7 @@
+C:\Users\David D' Rosa Ruiz\source\repos\StoreList\StoreList\bin\Debug\StoreList.exe.config
+C:\Users\David D' Rosa Ruiz\source\repos\StoreList\StoreList\bin\Debug\StoreList.exe
+C:\Users\David D' Rosa Ruiz\source\repos\StoreList\StoreList\bin\Debug\StoreList.pdb
+C:\Users\David D' Rosa Ruiz\source\repos\StoreList\StoreList\obj\Debug\StoreList.csprojAssemblyReference.cache
+C:\Users\David D' Rosa Ruiz\source\repos\StoreList\StoreList\obj\Debug\StoreList.csproj.CoreCompileInputs.cache
+C:\Users\David D' Rosa Ruiz\source\repos\StoreList\StoreList\obj\Debug\StoreList.exe
+C:\Users\David D' Rosa Ruiz\source\repos\StoreList\StoreList\obj\Debug\StoreList.pdb
